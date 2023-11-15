@@ -1,6 +1,6 @@
 ### Welcome, I'm Corinne!  
 
-Currently: Senior Manager of Technology for Games at <a href="https://pbskids.org/" text-decoration="none">PBS Kids</a> :video_game: </br>
+Currently: Dicrector of Technology for Games at <a href="https://pbskids.org/" text-decoration="none">PBS KIDS</a> :video_game: </br>
 <a href="https://new.sewanee.edu/">Sewanee</a> Alum :tiger: </br>
 <a href="https://www.possefoundation.org/">Posse</a> Scholar :mortar_board:
 
